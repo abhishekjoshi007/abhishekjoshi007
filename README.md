@@ -71,7 +71,7 @@
 
 ## 🎤 Community & Leadership
 💬 Session Chair, IEEE CAI 2025 | 🌐 Workshop Lead, IEEE PES RES Robotics 2024 | 🚀 Mentor, IEEE YP Hackathon (Smart Microgrid Analytics)
-
+💬 Peer Reviewer DMI 2025 Assessed three AI papers on LLM & RAG chatbots, chain‑of‑thought reasoning, & epidemic-informed PINNs expertise in LLM reasoning, multimodal fusion, & model explainability.
 ---
 
 ## 📈 Stats
