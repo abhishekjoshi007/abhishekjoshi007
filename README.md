@@ -18,9 +18,8 @@
 - 🔌 **Current work:** AI-driven geospatial microgrids & EV-charging optimization  
 - 📝 **Publications:** IEEE CAI ’25 • IEEE BIG DATA ’24 • LLM calibration study (rev.)  
 - 🥇 **Wins:** National Smart India Hackathon champion (EV range prototype)  
-- 🎤 **Leadership:** Session Chair – IEEE CAI 2025 (Graph Learning & Visualization)
+- 🎤 **Leadership:** Session Chair – IEEE CAI 2025 (Graph Learning & Visualization) and Peer Reviewer DMI 2025 Assessed three AI papers on LLM & RAG.
 
----
 
 ## 🛠️ Tech Toolkit
 <p align="center">
