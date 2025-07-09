@@ -71,7 +71,7 @@
 
 ## 🎤 Community & Leadership
 💬 Session Chair, IEEE CAI 2025 | 🌐 Workshop Lead, IEEE PES RES Robotics 2024 | 🚀 Mentor, IEEE YP Hackathon (Smart Microgrid Analytics)
-
+💬 Session Chair, IEEE CAI 2025 | 🌐 Workshop Lead, IEEE PES RES Robotics 2024 | 🚀 Mentor, IEEE YP Hackathon (Smart Microgrid Analytics)
 ---
 
 ## 📈 Stats
